@@ -4,7 +4,7 @@
     <property name="created">2020-11-14T02:40:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.1.0</property>
-    <property name="modified">2020-11-20T13:50:42</property>
+    <property name="modified">2020-11-20T21:19:22</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -143,7 +143,7 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4078f2" />
@@ -1195,7 +1195,7 @@
         <option name="BACKGROUND" value="eaeaeb" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="184bc" />
@@ -3485,8 +3485,8 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3567,7 +3567,7 @@
         <option name="FOREGROUND" value="50a14f" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="526fff" />
